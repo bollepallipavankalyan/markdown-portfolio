@@ -1,1 +1,1 @@
-https://github.com/bollepallipavankalyan/markdown-portfolio/issues/1
+https://github.com/bollepallipavankalyan/markdown-portfolio
